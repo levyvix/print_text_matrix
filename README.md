@@ -1,7 +1,7 @@
 # Print a text like a matrix code
 
 
-<img src="https://i.imgur.com/ebKFEY4.gif" width="400" height="400" />
+<img src="https://i.imgur.com/ebKFEY4.gif" width="800" height="400" />
 
 
 
